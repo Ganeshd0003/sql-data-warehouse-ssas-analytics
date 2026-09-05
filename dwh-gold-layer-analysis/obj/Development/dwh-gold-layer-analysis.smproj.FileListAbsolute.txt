@@ -1,0 +1,8 @@
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\bin\Model.asdatabase
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\bin\Model.deploymenttargets
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\bin\Model.deploymentoptions
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\obj\Development\dwh-gold-layer-analysis.smproj.AssemblyReference.cache
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\obj\Development\dwh-gold-layer-analysis.smproj.CoreCompileInputs.cache
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\obj\Development\Model.asdatabase
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\obj\Development\Model.deploymentoptions
+C:\Users\ganes\OneDrive\Desktop\ssas-learning\dwh-gold-layer-analysis\obj\Development\Model.deploymenttargets
