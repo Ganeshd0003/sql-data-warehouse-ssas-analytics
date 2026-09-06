@@ -1,4 +1,4 @@
-# sql-data-warehouse-ssas-analytics
+# ssas-sales-analytics-project
 End-to-end data warehouse, exploratory analytics, advanced SQL analysis, and SSAS Tabular semantic modeling project
 # SQL Server Data Warehouse & SSAS Sales Analytics
 
