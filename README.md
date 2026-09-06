@@ -23,45 +23,6 @@ provide centralized business measures, relationships, hierarchies, and KPIs
 for BI consumption.
 
 ---
-
 ## Architecture
 
-```text
-CRM / ERP CSV Files
-        |
-        v
-+------------------+
-|  Bronze Layer    |
-|  Raw Data        |
-+------------------+
-        |
-        v
-+------------------+
-|  Silver Layer    |
-| Cleaned Data    |
-+------------------+
-        |
-        v
-+------------------+
-|   Gold Layer     |
-|  Star Schema     |
-+------------------+
-        |
-        +--------------------+
-        |                    |
-        v                    v
-      EDA              Advanced Analytics
-        |                    |
-        +---------+----------+
-                  |
-                  v
-          Reporting Views
-                  |
-                  v
-        +-------------------+
-        |   SSAS Tabular    |
-        | Semantic Model    |
-        +-------------------+
-                  |
-                  v
-          Power BI / Excel
+![Architecture](./Docs%20and%20Final%20Report/Architecture.png)
